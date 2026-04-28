@@ -53,9 +53,9 @@ Status: Passed
 
 ## TC004 - Update user
 
-**Endpoint:** `/api/users/2`
-**Method:** PUT
-**Expected Status Code:** 200
+**Endpoint:** `/api/users/2`  
+**Method:** PUT  
+**Expected Status Code:** 200  
 
 **Request Body:**
 
@@ -75,9 +75,9 @@ The response body should return the updated name, job and update date.
 
 ## TC005 - Partially update user
 
-**Endpoint:** `/api/users/2`
-**Method:** PATCH
-**Expected Status Code:** 200
+**Endpoint:** `/api/users/2`  
+**Method:** PATCH  
+**Expected Status Code:** 200  
 
 **Request Body:**
 
@@ -96,9 +96,11 @@ The response body should return the updated job and update date.
 
 ## TC006 - Delete user
 
-**Endpoint:** `/api/users/2`
-**Method:** DELETE
-**Expected Status Code:** 204
+**Endpoint:** `/api/users/2`  
+**Method:** DELETE  
+**Expected Status Code:** 204  
+
+
 
 **Expected Result:**
 
