@@ -30,8 +30,8 @@
 
 ## TC003 - Create user
 
-**Endpoint:** `/api/users`  
-**Method:** POST  
+**Endpoint:** `/api/users`
+**Method:** POST
 **Expected Status Code:** 201  
 
 **Request Body:**
