@@ -1,5 +1,15 @@
 # ReqRes API - Test Cases
 
+# ReqRes API - Test Cases
+
+## Base URL
+
+`https://reqres.in/api`
+
+In Postman, the Base URL was configured as an environment variable:
+
+`{{BASE_URL}}`
+
 ## TC001 - Get list of users
 
 **Endpoint:** `/api/users?page=2`  
