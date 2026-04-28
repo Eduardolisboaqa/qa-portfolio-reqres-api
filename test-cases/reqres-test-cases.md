@@ -1,7 +1,5 @@
 # ReqRes API - Test Cases
 
-# ReqRes API - Test Cases
-
 ## Base URL
 
 `https://reqres.in/api`
